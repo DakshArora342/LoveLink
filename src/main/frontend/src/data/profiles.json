@@ -1,0 +1,183 @@
+[
+	{
+		"id": 1,
+		"name": "Aditi",
+		"age": 20,
+		"gender": "female",
+		"zodiac": "♓ Pisces",
+		"images": [
+			"https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "B.Tech CSE - Loves Anime, Photography 📸",
+		"interests": [
+			"Anime",
+			"Dogs",
+			"Coding"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 2,
+		"name": "Rohan",
+		"age": 22,
+		"gender": "male",
+		"zodiac": "♌ Leo",
+		"images": [
+			"https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "ECE Final Year - Gym Rat & Gamer 🎮",
+		"interests": [
+			"Gaming",
+			"Workout",
+			"Music"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 3,
+		"name": "Simran",
+		"age": 19,
+		"gender": "female",
+		"zodiac": "♊ Gemini",
+		"images": [
+			"https://images.unsplash.com/photo-1552058544-f2b08422138a?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "Freshie - Obsessed with books & chai ☕",
+		"interests": [
+			"Books",
+			"Chai",
+			"Art"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 4,
+		"name": "Kabir",
+		"age": 21,
+		"gender": "male",
+		"zodiac": "♐ Sagittarius",
+		"images": [
+			"https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1603415526960-f8fcd6b9e2e8?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "Marketing Enthusiast 💼 | Memer by night 🌙",
+		"interests": [
+			"Stand-up Comedy",
+			"Travel",
+			"Marketing"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 5,
+		"name": "Neha",
+		"age": 20,
+		"gender": "female",
+		"zodiac": "♉ Taurus",
+		"images": [
+			"https://images.unsplash.com/photo-1502767089025-6572583495b9?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "Love sunsets & long walks ☀️",
+		"interests": [
+			"Sunsets",
+			"Long Walks",
+			"Poetry"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 6,
+		"name": "Aryan",
+		"age": 23,
+		"gender": "male",
+		"zodiac": "♈ Aries",
+		"images": [
+			"https://images.unsplash.com/photo-1546456073-670d0eafdf19?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1573497491208-6b1acb260507?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "Future entrepreneur 💼 | Big fan of startups",
+		"interests": [
+			"Startups",
+			"Finance",
+			"Tech"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 7,
+		"name": "Ishita",
+		"age": 21,
+		"gender": "female",
+		"zodiac": "♎ Libra",
+		"images": [
+			"https://images.unsplash.com/photo-1520975910017-2b937edcbb43?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "Fashion student with a creative soul 👗🎨",
+		"interests": [
+			"Fashion",
+			"Painting",
+			"Music"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 8,
+		"name": "Dev",
+		"age": 22,
+		"gender": "male",
+		"zodiac": "♋ Cancer",
+		"images": [
+			"https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "UI/UX Designer | Coffee addict ☕",
+		"interests": [
+			"Design",
+			"Coffee",
+			"Photography"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 9,
+		"name": "Riya",
+		"age": 20,
+		"gender": "female",
+		"zodiac": "♒ Aquarius",
+		"images": [
+			"https://images.unsplash.com/photo-1588359374269-fc04eebdf9bd?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1520975910017-2b937edcbb43?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "Nature is my happy place 🌿",
+		"interests": [
+			"Nature",
+			"Hiking",
+			"Camping"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	},
+	{
+		"id": 10,
+		"name": "Ankit",
+		"age": 24,
+		"gender": "male",
+		"zodiac": "♑ Capricorn",
+		"images": [
+			"https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&w=800&q=80",
+			"https://images.unsplash.com/photo-1502767089025-6572583495b9?auto=format&fit=crop&w=800&q=80"
+		],
+		"bio": "Coding & cricket 🏏",
+		"interests": [
+			"Cricket",
+			"Coding",
+			"Movies"
+		],
+		"createdAt": "2025-06-28T00:00:00.000Z"
+	}
+]
