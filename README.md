@@ -94,7 +94,7 @@
 
 1. **Clone the Repo**
 ```bash
-git clone [https://github.com/DakshArora342/LoveLink.git](https://github.com/DakshArora342/LoveLink.git)
+git clone https://github.com/DakshArora342/LoveLink.git
 cd LoveLink
 
 ```
