@@ -108,7 +108,6 @@ mvn clean spring-boot:run
 
 
 *This will install Node, build React, package the JAR, and start the server.*
-3. **Access**
 
 
 ---
