@@ -69,14 +69,14 @@
 
 * **Unified Deployment:** The React build (`npm run build`) is automatically copied into `src/main/resources/static` during the Maven build lifecycle. The result is a **single executable JAR** that serves both the API and the UI.
 * **Security First:**
-* **Stateless Auth:** Custom JWT implementation with filter chains.
-* **Rate Limiting:** Integrated **Bucket4j** to protect endpoints from brute-force and DDoS attacks.
-* **Strict Validation:** `@Valid` DTOs prevent malformed data from reaching the service layer.
+  * **Stateless Auth:** Custom JWT implementation with filter chains.
+  * **Rate Limiting:** Integrated **Bucket4j** to protect endpoints from brute-force and DDoS attacks.
+  * **Strict Validation:** `@Valid` DTOs prevent malformed data from reaching the service layer.
 
 
 * **Real-Time Capabilities:**
-* Utilizes **Spring WebSocket** with a STOMP broker for bi-directional chat.
-* Frontend manages socket subscriptions via React Context to prevent connection leaks.
+  * Utilizes **Spring WebSocket** with a STOMP broker for bi-directional chat.
+  * Frontend manages socket subscriptions via React Context to prevent connection leaks.
 
 
 
