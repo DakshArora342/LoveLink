@@ -1,6 +1,12 @@
 # Love-Link
 
-Love-Link is a modern matchmaking application built with **Spring Boot** (backend) and **React** (frontend). Both frontend and backend run on the **same port**, providing a seamless full-stack experience.
+Love-Link is a modern matchmaking application built with **Spring Boot** (backend) and **React** (frontend).  
+Both frontend and backend run on the **same port**, providing a seamless full-stack experience.
+
+> ⚠️ Note: The app is deployed on a basic Azure plan, so the first load may be slower than usual.
+
+## Live Demo
+[Explore Love-Link](https://love-link-1759327457370.azurewebsites.net/)
 
 ---
 
@@ -17,6 +23,28 @@ Love-Link is a modern matchmaking application built with **Spring Boot** (backen
 
 ---
 
+## Screenshots
+
+### 1. Homepage
+![Homepage](https://beeimg.com/images/c72257045113.jpg)
+
+### 2. Admin Panel
+![Admin Panel](https://beeimg.com/images/q47607328801.png)
+
+### 3. Chat Feature
+![Chat Feature](https://beeimg.com/images/s79463136314.jpg)
+
+### 4. Matches View
+![Matches](https://beeimg.com/images/r77153229181.jpg)
+
+### 5. Likes History
+![Likes History](https://beeimg.com/images/e10069638594.jpg)
+
+### 6. Random Match Feature
+![Random Match](https://beeimg.com/images/g18644269524.jpg)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -27,4 +55,5 @@ Love-Link is a modern matchmaking application built with **Spring Boot** (backen
 
 ### Build
 
+```bash
 mvn clean install
