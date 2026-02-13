@@ -117,18 +117,3 @@ mvn clean spring-boot:run
 * [ ] **Dockerization:** Containerize the unified JAR for easier cloud deployment.
 * [ ] **OAuth2:** Add "Sign in with Google" support.
 * [ ] **Redis:** Offload WebSocket session state to Redis for horizontal scaling.
-
----
-
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/daksharora342">
-      <img src="https://img.shields.io/badge/LinkedIn-Daksh_Arora-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:aroratheaksh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
-    </a>
-  </p>
-</div>
-
-```
