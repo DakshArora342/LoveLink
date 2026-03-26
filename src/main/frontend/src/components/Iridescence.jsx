@@ -33,7 +33,7 @@ void main() {
 
   float d = -uTime * 0.5 * uSpeed;
   float a = 0.0;
-  for (float i = 0.0; i < 8.0; ++i) {
+  for (float i = 0.0; i < 4.0; ++i) {
     a += cos(i - d - a * uv.x);
     d += sin(uv.y * i + a);
   }
@@ -63,7 +63,7 @@ export default function Iridescence({
 	useEffect(() => {
 		if (!mounted || !ctnDom.current) return;
 		const ctn = ctnDom.current;
-		const renderer = new Renderer();
+		const renderer = new Renderer({ dpr: 1 });
 		const gl = renderer.gl;
 		gl.clearColor(1, 1, 1, 1);
 
