@@ -65,7 +65,7 @@ export default function WelcomePage() {
 					A private dating platform for students. Discover new connections, chat freely, and find your match! 💌
 				</motion.p>
 
-				<Link to="/features" aria-label="Get started with Love-Link">
+				<Link to="/auth" aria-label="Get started with Love-Link">
 					<motion.button
 						whileHover={{ scale: 1.05 }}
 						whileTap={{ scale: 0.95 }}
