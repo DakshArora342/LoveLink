@@ -5,14 +5,14 @@ import { useState, useRef } from "react";
 import Iridescence from "../components/Iridescence";
 import FeatureCardsOnScroll from "../components/FeatureCardsOnScroll";
 import TriggerHearts from "../utils/TriggerHearts";
-
+const IRIDESCENCE_COLOR = [0.4, 0.1, 0.5];
 export default function FeaturesPage() {
 
 	return (
 		<div className="min-h-screen relative text-center overflow-hidden">
 			{/* 🌈 Iridescent Background */}
 			<div className="fixed inset-0 -z-10">
-				<Iridescence color={[0.4, 0.1, 0.5]} speed={1} amplitude={0.1} mouseReact={false} />
+				<Iridescence color={IRIDESCENCE_COLOR} speed={1} amplitude={0.1} mouseReact={false} />
 			</div>
 
 
