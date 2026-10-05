@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class LoveLinkApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LoveLinkApplication.class, args);
+		 SpringApplication.run(LoveLinkApplication.class, args);
 	}
 
 }
